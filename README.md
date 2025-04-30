@@ -7,3 +7,7 @@ python video.py
 ```
 
 Hasil:
+
+
+
+Note: Dataset daun yang digunakan didapat dari : https://universe.roboflow.com/skripsi-ashar/skripsi-penyakit-daun-cabai/dataset/2
