@@ -1,2 +1,2 @@
-# deteksi-daun-cabai
-Deteksi Daun Cabai Menggunakan YOLO versi 8 secara realtime menggukan kamera
+# deteksi-penyakit-daun-cabai
+Deteksi Penyakit Daun Cabai Dan Penanganannya Menggunakan YOLO versi 8 secara realtime menggukan kamera
