@@ -1,0 +1,14 @@
+train: D:/Pembelajaran/DSH/Python/dsh_cabai/images/train/images
+val: D:/Pembelajaran/DSH/Python/dsh_cabai/images/valid/images
+test: D:/Pembelajaran/DSH/Python/dsh_cabai/images/test/images  # Opsional
+
+nc: 5
+names: ['Bercak', 'Keriting', 'Kuning', 'Sehat', 'Whitefly']
+
+
+roboflow:
+  workspace: skripsi-ashar
+  project: skripsi-penyakit-daun-cabai
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/skripsi-ashar/skripsi-penyakit-daun-cabai/dataset/2
